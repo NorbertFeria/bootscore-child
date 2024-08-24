@@ -1,0 +1,12 @@
+/* https://huemint.com/bootstrap-basic/#palette=dbdadb-ffffff-141514-423a36-d2422d-d95c3d */
+$light :#dbdadb;
+$dark :#141514;
+$primary : #423a36;
+$secondary :#d2422d;
+$info : #d95c3d;
+$success : #51991f;
+$warning :#febc49;
+$danger:#eb125f;
+$border-radius: 0.1rem;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
